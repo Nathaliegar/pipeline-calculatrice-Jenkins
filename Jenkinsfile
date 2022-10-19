@@ -50,6 +50,7 @@ pipeline {
             agent any
             steps {
                 echo 'main'
+                echo 'test ngrok'
             }
         }
 
